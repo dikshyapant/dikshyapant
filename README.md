@@ -1,5 +1,4 @@
-
-<img width="700" alt="bubble" src="https://github.com/user-attachments/assets/5c4797f3-6aa3-4284-83ad-8d79130325e7" />
+<img width="500" alt="bubble_cropped" src="https://github.com/user-attachments/assets/e430a3b3-a7fc-40e3-b914-c5643a5bcac7" />
 
 ---
 
