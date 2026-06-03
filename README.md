@@ -1,16 +1,22 @@
-## Hi there 👋
+# hi, i'm dikshya 🤍
+CS student
 
-<!--
-**dikshyapant/dikshyapant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎀 about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+final-year cs student at the University of North Texas, graduating december 2026.
+tech and fashion lover — I like building things that are as functional as they are pretty ✨
+
+---
+
+### 💻 tech stack
+
+`Python` `SQL` `PostgreSQL` `Streamlit` `Flask` `Supabase` `GitHub Actions` `R` `pandas` `SQLite`
+
+---
+
+### 💌 fav repos
+
+ **fashion-trends** — automated trend tracker & dashboard
+ **health-dashboard** — habit tracker & data viz
